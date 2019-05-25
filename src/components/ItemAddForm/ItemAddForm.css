@@ -1,0 +1,8 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.add-item {
+    flex-shrink: 0;
+    margin-left: 10px;
+}
